@@ -16,12 +16,40 @@ h3{
 form{
     margin-top:30px;
 }
+
+.green{
+    color:green;
+}
 .links{
     color:green;
+    font-weight:bold;
+    font-size:23px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 .links:hover{
-    color:green;
+    color:lightgreen;
+    text-decoration:none;
 }
-#secondRow{
-    margin-top:20px;
+.linksTitle{
+    color:green;
+    font-weight:bold;
+    font-size:33px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.projectRow{
+margin:20px;
+}
+.projects{
+    text-align:center;
+}
+.bannerProject{
+    margin-bottom:50px;
+}
+.pc{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#foot{
+    height:50px;
 }
